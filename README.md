@@ -10,7 +10,7 @@ target="_blank"><img src="https://img.shields.io/badge/python-3.10-blue.svg" alt
 
 <p align="center">
 SwarmPy is an experimental library. <br/>
-It aims at providing a modulable framework to test and experiment on Ant Colony Optimzation (ACO) algorithms<br/>
+It aims at providing a modulable framework to test and experiment on Ant Colony Optimzation (ACO) algorithms on Travelling Salesman Problem<br/>
 contact : lucas.saban[at]ensae.fr
 </p>
 
